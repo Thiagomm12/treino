@@ -1,0 +1,29 @@
+head{
+    background-color: black;
+}
+
+
+.container1 {
+    background-color:lightslategrey;color:white;
+    width: 120;
+    padding: 190px
+    
+}
+
+.container2 {
+    background-color:white;color:black;
+    width: auto;
+    padding: 190px
+}
+
+.container-fluid{
+    background-color: lightslategrey
+    
+    
+  
+}
+
+a{
+    margin: 80px;
+    
+}
